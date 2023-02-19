@@ -13,5 +13,5 @@ st.set_page_config(
 st.title(":bar_chart: Constats Dashboard")
 st.markdown("##")
 
-df=pd.read_csv("data.csv")
+df=pd.read_csv('data.csv', sep=';' ,encoding='latin-1')
 st.dataframe(df)
