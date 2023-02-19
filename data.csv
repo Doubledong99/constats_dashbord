@@ -1,0 +1,312 @@
+Période;Référence constat;Etat constat;Date constat;Thème;Sous-thème;Lieu ;Entreprise;Lot;Evénement DI 100 ;"Actions Caméléon associée
+(seules les ""en cours"" apparaissent)";Date prise en charge;Date clos;temps parcouru jusqu'à prise en charge;temps parcouru jusqu'à clôture 
+2021 B3;C0000302758;En cours;22/06/2021;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;Dalkia;entreprise;non;;;;;
+2021 B3;C0000303600;En cours;24/06/2021;Incendie;ACF absente;BASES VIE;GMES Ineo Snef;entreprise;non;;;;;
+2021 B4;C0000305673;En cours;02/07/2021;Incendie;ACF absente;BASES VIE;KW;entreprise;non;;;;;
+2021 B4;C0000307114;En cours;07/07/2021;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Snef;entreprise;non;;;;;
+2021 B4;C0000310064;En cours;22/07/2021;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Omexom;entreprise;non;;;;;
+2021 B4;C0000310084;En cours;22/07/2021;Incendie;ACF absente;BASES VIE;Masci;entreprise;non;;;;;
+2021 B4;C0000314440;En cours;10/08/2021;Confinement_liquide_installation;/;EXT BLOC USINE;EDF;lot 6;EIE04;"A0000173797 (en cours ; échéance : 30/01/2023) ; A0000262679 (en cours ; échéance : 17/02/2023)";;;;
+2021 B4;C0000314437;En cours;10/08/2021;Perte_de_fluide_frigorigène;/;Sans objet;EDF;lot 3;EIE03;Constat en cours perte 25kg R134a (C0000299663);;;;
+2021 B5;C0000323337;En cours;15/09/2021;Perte_de_fluide_frigorigène;/;Sans objet;EDF;lot 3;ESE6;A0000276668 (23/06/2023);;;;
+2021 B5;C0000340901;En cours;27/10/2021;Déversement;Déversement lié aux engins;EXT CAMPUS FORMATION;Inconnue;lot 7;EIE3;A0000278890 (27/12/2021);;;;
+2021 B6;C0000347629;clos;26/11/2021;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Baumert;entreprise;non;;;19/12/2022;;277
+2021 B6;C0000354635;Clos;17/12/2021;Administratif;Pièce 13 absente ou incomplète;HB;EDF;;non;;;22/11/2022;;243
+2021 B6;C0000354204;En cours;20/12/2021;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;2HEnergy;entreprise;non;;;;;
+2021 B6;C0000354637;Clos;21/12/2021;Rétention;Rétention absente;HB;Inconnue;;non;;;05/12/2022;;250
+2022 B1;C0000357224;Clos;05/01/2022;Administratif;Pièce 13 absente ou incomplète;HR;Westinghouse;;non;;;06/01/2022;;2
+2022 B1;C0000357246;Clos;05/01/2022;Administratif;Pièce 13 absente ou incomplète;HL;Westinghouse;;non;;;20/06/2022;;119
+2022 B1;C0000357402;Clos;05/01/2022;Administratif;Pièce 13 absente ou incomplète;EXT BLOC USINE;Baudrey;;non;;;10/01/2022;;4
+2022 B1;C0000357976;Clos;10/01/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Framatome;;non;;;23/05/2022;;96
+2022 B1;C0000358029;Clos;10/01/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Framatome;;non;;;24/03/2022;;54
+2022 B1;C0000358072;Clos;10/01/2022;Gestion_des_déchets;Déchet non évacué;BASES VIE;WSP;;non;;;18/02/2022;;30
+2022 B1;C0000358218;Clos;11/01/2022;Rétention;Rétention sous-dimensionnée;HR;inconnue;;Non;;;08/02/2022;;21
+2022 B1;C0000358223;Clos;11/01/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Onet;;non;;;10/02/2022;;23
+2022 B1;C0000358252;Clos;11/01/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Mastellotto;;non;;;21/06/2022;;116
+2022 B1;C0000358306;Clos;11/01/2022;Prévention_des_incidents;Kit environnement absent;HM;EDF;;Non;;;31/01/2022;;15
+2022 B1;C0000358576;Clos;12/01/2022;Activité;Parades absentes ou inadaptées;HD;Endel;;non;;;19/04/2022;;70
+2022 B1;C0000358574;Clos;12/01/2022;Rétention;Rétention pleine/encombrée;HD;Kaefer Wanner;;non;;;19/04/2022;;70
+2022 B1;C0000358691;Clos;13/01/2022;Déversement;Déversement lié à l'installation;HB;EDF;;Non;;;27/01/2022;;11
+2022 B1;C0000359059;Clos;14/01/2022;Gestion_des_déchets;Déchet abandonné;HNX;inconnue;;non;;;09/06/2022;;105
+2022 B1;C0000359068;Clos;14/01/2022;Incendie;Produits inflammables hors ACF;HNX;inconnue;;non;;;28/04/2022;;75
+2022 B1;C0000359158;Clos;14/01/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;HNX;ADF;;non;;;10/02/2022;;20
+2022 B1;C0000359558;Clos;18/01/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Guintoli;;non;;;15/06/2022;;107
+2022 B1;C0000359638;Clos;18/01/2022;Incendie;Produits inflammables hors ACF;EXT PLATEAU;inconnue;;non;;;03/03/2022;;33
+2022 B1;C0000359857;Clos;19/01/2022;Contenant;Inadapté, abîmé;BASES VIE;Kaefer Wanner;;non;;;15/02/2022;;20
+2022 B1;C0000360289;En cours;20/01/2022;Perte_de_fluide_frigorigène;/;Sans objet;EDF;lot 3;EIE03;"A0000310562 (en cours ; échéance 30/08/22) ; A0000310574 (en cours ; échéance 30/08/22)";;;;
+2022 B1;C0000361035;Clos;24/01/2022;Déversement;Déversement lié à une activité;HR;Nuvia;;Non;;;09/06/2022;;99
+2022 B1;C0000361393;Clos;26/01/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Omexom;;non;;;17/03/2022;;37
+2022 B1;C0000361430;Clos;26/01/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;BST;;non;;;28/02/2022;;24
+2022 B1;C0000361434;Clos;26/01/2022;Prévention_des_incidents;kit environnement absent;BASES VIE;BST;;non;;;01/03/2022;;25
+2022 B1;C0000361823;Clos;27/01/2022;Gestion_des_déchets;Déchet abandonné;HL;inconnue;;non;;;03/02/2022;;6
+2022 B1;C0000361822;Clos;27/01/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Eiffage GCN;;non;;;27/05/2022;;87
+2022 B1;C0000362749;Clos;01/02/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Westinghouse;;non;;;01/03/2022;;21
+2022 B1;C0000362827;Clos;01/02/2022;Gestion_des_déchets;Filière inappropriée;HP;inconnue;;Non;;;10/03/2022;;28
+2022 B1;C0000363629;Clos;01/02/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;Teneo;;non;;;17/02/2022;;13
+2022 B1;C0000363132;Clos;02/02/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Probent Access;;non;;;20/06/2022;;99
+2022 B1;C0000363318;Clos;03/02/2022;Déversement;Déversement lié à l'installation;HD;inconnue;;non;;;#N/A;;#N/A
+2022 B1;C0000363563;Clos;03/02/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;GE;;non;;;11/02/2022;;7
+2022 B1;C0000363641;Clos;03/02/2022;Déversement;Déversement lié aux engins;EXT BLOC USINE;Veolia;;non;;;27/06/2022;;103
+2022 B1;C0000364319;Clos;07/02/2022;Gestion_des_déchets;Déchet non trié;HP;Inconnue;;non;;;04/07/2022;;106
+2022 B1;C0000364545;En cours;08/02/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Masci;entreprise;non;;;;;
+2022 B1;C0000364553;Clos;08/02/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;Masci;;non;;;09/03/2022;;22
+2022 B1;C0000364677;Clos;08/02/2022;Etiquetage_des_produits;Etiquetage absent;EXT BLOC USINE;EDF;;non;;;07/04/2022;;43
+2022 B1;C0000364685;Clos;08/02/2022;Etiquetage_des_produits;Etiquetage absent;EXT BLOC USINE;EDF;;non;;;11/10/2022;;176
+2022 B1;C0000365670;Clos;10/02/2022;Déversement;Déversement lié à une activité;HB;EDF;;non;;;#N/A;;#N/A
+2022 B1;C0000366155;Clos;14/02/2022;Gestion_des_déchets;Déchet non évacué;BASES VIE;BC9/Spir;;non;;;15/02/2022;;2
+2022 B1;C0000366323;Clos;14/02/2022;Rétention;Rétention absente;HR;Endel;;non;;;19/04/2022;;47
+2022 B1;C0000366324;Clos;14/02/2022;Déversement;Déversement lié aux engins;EXT CAMPUS FORMATION;inconnue;;non;;;27/06/2022;;96
+2022 B1;C0000366724;Clos;16/02/2022;Gestion_des_déchets;Déchet non trié;HF;inconnue;;non;;;24/02/2022;;7
+2022 B1;C0000366787;Clos;16/02/2022;Gestion_des_déchets;Déchet non trié;HM;inconnue;;non;;;24/02/2022;;7
+2022 B1;C0000366868;Clos;16/02/2022;Rétention;Rétention absente;HR;inconnue;;non;;;19/04/2022;;45
+2022 B1;C0000367284;Clos;17/02/2022;Gestion_des_déchets;Déchet abandonné;HD;inconnue;;non;;;03/05/2022;;54
+2022 B1;C0000367283;Clos;17/02/2022;Gestion_des_déchets;Déchet abandonné;HD;inconnue;;non;;;03/05/2022;;54
+2022 B1;C0000367557;Clos;18/02/2022;Contenant;Inadapté, abîmé;BASES VIE;Spie Cegelec;;non;;;03/05/2022;;53
+2022 B1;C0000369747;Clos;28/02/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Endel;;non;;;08/04/2022;;30
+2022 B1;C0000369902;En cours;28/02/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;BST;entreprise;non;;;;;
+2022 B2;C0000370229;Clos;01/03/2022;Déversement;Autre type de déversement;EXT BLOC USINE;inconnue;;non;;;27/06/2022;;85
+2022 B2;C0000371655;Clos;02/03/2022;Maîtrise_des_ressources;Egoutture/fuite tuyauterie ;HNX;Inconnue;;non;;;07/03/2022;;4
+2022 B2;C0000371016;Clos;03/03/2022;Gestion_des_déchets;Filière inappropriée;HR;inconnue;;Non;;;04/03/2022;;2
+2022 B2;C0000371020;Clos;03/03/2022;Gestion_des_déchets;Filière inappropriée;HK;inconnue;;Non;;;07/03/2022;;3
+2022 B2;C0000371920;Clos;07/03/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Onet;;non;;;14/03/2022;;6
+2022 B2;C0000371857;Clos;07/03/2022;Etiquetage_des_produits;Etiquetage incomplet;HL;inconnue;;non;;;28/04/2022;;39
+2022 B2;C0000371868;Clos;07/03/2022;Etiquetage_des_produits;Etiquetage incomplet;HB;Inconnue;;non;;;25/03/2022;;15
+2022 B2;C0000372178;Clos;08/03/2022;Gestion_des_déchets;Filière inappropriée;HNX;inconnue;;Non;;;09/06/2022;;68
+2022 B2;C0000372179;Clos;08/03/2022;Gestion_des_déchets;Filière inappropriée;HK;inconnue;;Non;;;09/06/2022;;68
+2022 B2;C0000372280;Clos;08/03/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Altrad Prezioso-Linjebygg;;non;;;10/05/2022;;46
+2022 B2;C0000372292;Clos;08/03/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Altrad Prezioso-Linjebygg;;non;;;10/05/2022;;46
+2022 B2;C0000372465;Clos;09/03/2022;Rétention;Rétention trouée détériorée;EXT BLOC USINE;inconnue;;Non;;;10/03/2022;;2
+2022 B2;C0000372470;Clos;09/03/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Masci;;non;;;09/09/2022;;133
+2022 B2;C0000372574;En cours;09/03/2022;Problématique_organisationnelle;Autre;EXT PLATEAU;PZO LST;entreprise;non;A0000336822 (échéance : 25/05/2022);;;;
+2022 B2;C0000372876;Clos;10/03/2022;Gestion_des_déchets;Déchet non trié;HL;Inconnue;;non;;;26/08/2022;;122
+2022 B2;C0000372878;Clos;10/03/2022;Gestion_des_déchets;Déchet non trié;HL;inconnue;;non;;;14/06/2022;;69
+2022 B2;C0000372882;Clos;10/03/2022;Gestion_des_déchets;Filière inappropriée;HL;inconnue;;Non;;;05/07/2022;;84
+2022 B2;C0000372884;Clos;10/03/2022;Gestion_des_déchets;Filière inappropriée;HR;inconnue;;Non;;;27/06/2022;;78
+2022 B2;C0000372885;Clos;10/03/2022;Gestion_des_déchets;Filière inappropriée;HQ;inconnue;;Non;;;09/06/2022;;66
+2022 B2;C0000372892;Clos;10/03/2022;Gestion_des_déchets;Filière inappropriée;HNX;inconnue;;Non;;;09/06/2022;;66
+2022 B2;C0000373091;Clos;11/03/2022;Déversement;Déversement lié aux engins;EXT PARKING;Inconnue;;non;;;#N/A;;#N/A
+2022 B2;C0000373720;Clos;14/03/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;GMES Fives Nordon / Ponticelli;;non;;;27/05/2022;;55
+2022 B2;C0000373960;Clos;15/03/2022;Incendie;Produits inflammables hors ACF;BASES VIE;Endel;;non;;;07/04/2022;;18
+2022 B2;C0000373973;Clos;15/03/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;Westinghouse;;non;;;08/07/2022;;84
+2022 B2;C0000374289;Clos;16/03/2022;Confinement_liquide_installation;/;HD;Inconnue;;non;;;16/03/2022;;1
+2022 B2;C0000374463;Clos;16/03/2022;Déversement;Déversement lié aux engins;EXT PARKING;inconnue;;non;;;#N/A;;#N/A
+2022 B2;C0000374995;Clos;17/03/2022;Déversement;Déversement lié aux engins;EXT PARKING;Orys;;non;;;#N/A;;#N/A
+2022 B2;C0000375585;Clos;21/03/2022;Gestion_des_déchets;Filière inappropriée;HK;inconnue;;Non;;;04/07/2022;;76
+2022 B2;C0000375588;Clos;21/03/2022;Gestion_des_déchets;Filière inappropriée;HL;inconnue;;Non;;;27/06/2022;;71
+2022 B2;C0000376562;Clos;24/03/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Framatome;;non;;;22/06/2022;;65
+2022 B2;C0000378286;Clos;29/03/2022;Déversement;Déversement lié aux engins;EXT BLOC USINE;;;Non;;;12/07/2022;;76
+2022 B2;C0000383785;Clos;04/04/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Ineo Snef Siemens;;non;;;03/06/2022;;45
+2022 B2;C0000380345;Clos;06/04/2022;Déversement;Déversement lié à une activité;BASES VIE;Veolia;;Non;;;12/07/2022;;70
+2022 B2;C0000381924;Clos;13/04/2022;Déversement;Déversement lié aux engins;HNP;Eiffage GCN;;non;;;12/07/2022;;65
+2022 B2;C0000382262;Clos;14/04/2022;Déversement;Déversement lié à une activité;HF;inconnue;;non;;;19/05/2022;;26
+2022 B2;C0000382952;En cours;18/04/2022;Problématique_organisationnelle;Non respect d'exigence réglementaire;Sans objet;EDF;lot 2;EIE07;"A0000343134 (30/06/2022) ; A0000343135 (15/07/2022) ; A0000343161 (31/12/2022) ; A0000345107 (15/06/2022)";;;;
+2022 B2;C0000383097;Clos;19/04/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;Onet;;Non;;;12/05/2022;;18
+2022 B2;C0000383102;Clos;19/04/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;GMES Fives Nordon / Ponticelli;;non;;;27/05/2022;;29
+2022 B2;C0000383167;Clos;19/04/2022;Rétention;Rétention absente;EXT BLOC USINE;inconnue;;non;;;17/06/2022;;44
+2022 B2;C0000384874;En cours;27/04/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Baumert;entreprise;non;;;;;
+2022 B2;C0000384933;Clos;27/04/2022;Administratif;Inventaire non à jour;BASES VIE;Kaefer Wanner;;non;échéance : 31/07/2022;;22/11/2022;;150
+2022 B3;C0000385800;Clos;02/05/2022;Prévention_des_incidents;Kit environnement absent;HD;inconnue;;Non;;;12/05/2022;;9
+2022 B3;C0000388029;Clos;02/05/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Sade;;non;;;24/05/2022;;17
+2022 B3;C0000387148;Clos;03/05/2022;Prévention_des_incidents;Kit environnement absent;BASES VIE;PZO LST;;non;;;31/05/2022;;21
+2022 B3;C0000386269;Clos;03/05/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;GMES Engie Axima Tunzini;;non;;;28/10/2022;;129
+2022 B3;C0000386319;Clos;03/05/2022;Activité;Exercice environnement;EXT BLOC USINE;EDF;;non;;;02/08/2022;;66
+2022 B3;C0000386486;En cours;04/05/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Keolis;entreprise;non;;;;;
+2022 B3;C0000386537;Clos;04/05/2022;Incendie;ACF sous-dimensionnée;BASES VIE;BST;entreprise;non;;;05/01/2023;;177
+2022 B3;C0000386963;Clos;05/05/2022;Prévention_des_incidents;Parades absentes ou inadaptées;HL;Inconnue;;non;;;#N/A;;#N/A
+2022 B3;C0000387618;Clos;09/05/2022;Gestion_des_déchets;Filière inappropriée;EXT BLOC USINE;inconnue;;Non;;;09/05/2022;;1
+2022 B3;C0000387741;Clos;09/05/2022;Déversement;Déversement lié aux engins;BASES VIE;Orys;;non;;;#N/A;;#N/A
+2022 B3;C0000388836;Clos;12/05/2022;Déversement;Déversement lié à l'installation;HM;Inconnue;;non;;;#N/A;;#N/A
+2022 B3;C0000393032;Clos;12/05/2022;Gestion_des_déchets;Déchet non trié;BASES VIE;Eiffage GCN;;non;;;14/06/2022;;24
+2022 B3;C0000389150;Clos;13/05/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Dalkia EN;;non;;;23/11/2022;;139
+2022 B3;C0000389193;Clos;13/05/2022;Contenant;Inadapté, abîmé;BASES VIE;Dalkia EN;;non;;;27/05/2022;;11
+2022 B3;C0000389291;Clos;13/05/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Dalkia EN;;non;;;07/09/2022;;84
+2022 B3;C0000389300;Clos;13/05/2022;Activité;Parades absentes ou inadaptées;BASES VIE;Dalkia EN;;non;;;30/06/2022;;35
+2022 B3;C0000389797;Clos;16/05/2022;Prévention_des_incidents;Parades absentes ou inadaptées;HD;EDF;;non;;;#N/A;;#N/A
+2022 B3;C0000395279;Clos;16/05/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;ADF;;non;;;20/06/2022;;26
+2022 B3;C0000389972;Clos;16/05/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Guintoli;;non;;;15/06/2022;;23
+2022 B3;C0000389987;Clos;16/05/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Guintoli;;non;;;15/06/2022;;23
+2022 B3;C0000390918;Clos;19/05/2022;Problématique_organisationnelle;Non respect d'exigence réglementaire;EXT BLOC USINE;EDF;;non;"A0000352990 ; A0000353221";;#N/A;;#N/A
+2022 B3;C0000393053;Clos;19/05/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;GMES Fives Nordon / Ponticelli;;non;;;12/07/2022;;39
+2022 B3;C0000391863;Clos;23/05/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Onet;;non;;;16/09/2022;;85
+2022 B3;C0000391872;Clos;23/05/2022;Rétention;Rétention pleine/encombrée;BASES VIE;Onet;;non;;;09/06/2022;;14
+2022 B3;C0000392042;Clos;23/05/2022;Déversement;Déversement lié à une activité;EXT BLOC USINE;EDF;7;non;;;12/07/2022;;37
+2022 B3;C0000393062;Clos;27/05/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;GMES Fives Nordon / Ponticelli;;non;;;12/07/2022;;33
+2022 B3;C0000393063;Clos;27/05/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;Nuvia;;non;;;20/06/2022;;17
+2022 B3;C0000393064;Clos;27/05/2022;Contenant;ouvert, GRV sans bouchon;BASES VIE;Nuvia;;non;;;20/06/2022;;17
+2022 B3;C0000394930;Clos;03/06/2022;Déversement;Déversement lié à une activité;EXT BLOC USINE;IS;;EIE03;;;12/07/2022;;28
+2022 B3;C0000395594;Clos;08/06/2022;Rétention;Rétention absente;EXT BLOC USINE;EDF;;non;;;14/06/2022;;5
+2022 B3;C0000395657;Clos;08/06/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Westinghouse;;non;;;08/07/2022;;23
+2022 B3;C0000396219;Clos;09/06/2022;Administratif;Inventaire non à jour;BASES VIE;Lassarat;;non;;;29/08/2022;;58
+2022 B3;C0000396234;Clos;09/06/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Onet;;non;;;16/09/2022;;72
+2022 B3;C0000396953;Clos;13/06/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Onet;;non;;;11/07/2022;;21
+2022 B3;C0000396961;Clos;13/06/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Sade;;non;;;11/07/2022;;21
+2022 B3;C0000397320;En cours;14/06/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Ineo Snef Siemens;entreprise;non;;;;;
+2022 B3;C0000397572;Clos;15/06/2022;Compatibilité;Absence du tableau de compatibilité des produits;BASES VIE;Kaefer Wanner;entreprise;non;;;09/12/2022;;128
+2022 B3;C0000397848;Clos;16/06/2022;Déversement;Déversement lié à une activité;HM;GE;entreprise;Non;;;20/12/2022;;134
+2022 B3;C0000398945;Clos;20/06/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Nuvia;;non;;;01/09/2022;;54
+2022 B3;C0000398972;Clos;20/06/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;Nuvia;;non;;;01/09/2022;;54
+2022 B3;C0000399341;Clos;21/06/2022;Etiquetage_des_produits;Etiquetage absent;HL;inconnue;;Non;;;30/06/2022;;8
+2022 B3;C0000399330;Clos;21/06/2022;Administratif;Pièce 13 absente ou incomplète;EXT BLOC USINE;EDF;;non;;;26/07/2022;;26
+2022 B3;C0000399331;Clos;21/06/2022;Prévention_des_incidents;FRE absente;EXT BLOC USINE;EDF;;non;;;26/07/2022;;26
+2022 B3;C0000401569;Clos;29/06/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Baumert;;non;;;10/11/2022;;97
+2022 B3;C0000401974;Clos;30/06/2022;Administratif;Inventaire non à jour;BASES VIE;Dalkia EN;;non;;;06/09/2022;;49
+2022 B3;C0000402004;Clos;30/06/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Dalkia EN;;non;;;06/09/2022;;49
+2022 B3;C0000402013;Clos;30/06/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;Dalkia EN;;non;;;06/09/2022;;49
+2022 B3;C0000402015;Clos;30/06/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;Dalkia EN;;non;;;05/10/2022;;70
+2022 B4;C0000402493;Clos;01/07/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;Dalkia EN;;non;;;06/09/2022;;48
+2022 B4;C0000402821;En cours;04/07/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;Elior;entreprise;non;;;;;
+2022 B4;C0000403283;Clos;05/07/2022;Rétention;Rétention absente;BASES VIE;BST;;non;;;23/08/2022;;36
+2022 B4;C0000403319;Clos;05/07/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;ADF;;non;;;30/09/2022;;64
+2022 B4;C0000403332;Clos;05/07/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;GMES Engie Axima Tunzini;;non;;;05/08/2022;;24
+2022 B4;C0000403337;Clos;05/07/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;GMES Engie Axima Tunzini;;non;;;29/08/2022;;40
+2022 B4;C0000403957;Clos;07/07/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;GMES Engie Axima Tunzini;;non;;;05/08/2022;;22
+2022 B4;C0000403960;Clos;07/07/2022;Contenant;Inadapté, abîmé;BASES VIE;GMES Engie Axima Tunzini;;non;;;05/08/2022;;22
+2022 B4;C0000404047;Clos;08/07/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Westinghouse;;non;;;09/09/2022;;46
+2022 B4;C0000404079;Clos;08/07/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Snef;;non;;;01/09/2022;;40
+2022 B4;C0000404086;Clos;08/07/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Snef;;non;;;20/10/2022;;75
+2022 B4;C0000404131;Clos;08/07/2022;Incendie;ACF absente;BASES VIE;GMES Engie Axima Tunzini;;non;;;05/08/2022;;21
+2022 B4;C0000404457;Clos;11/07/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Socotec;;non;;;14/11/2022;;91
+2022 B4;C0000404607;En cours;11/07/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;TENEO;entreprise;non;;;;;
+2022 B4;C0000404620;Clos;11/07/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Sommer;;non;;;03/11/2022;;84
+2022 B4;C0000404633;Clos;11/07/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Sommer;;non;;;10/08/2022;;23
+2022 B4;C0000404665;Clos;11/07/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Sade;;non;;;28/10/2022;;80
+2022 B4;C0000405307;En cours;13/07/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;GDES;entreprise;non;;;;;
+2022 B4;C0000405312;Clos;13/07/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;GDES;;non;;;23/08/2022;;30
+2022 B4;C0000405962;En cours;18/07/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Kaefer Wanner;entreprise;non;;;;;
+2022 B4;C0000405991;Clos;18/07/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;BC9/Spir;entreprise;non;;;19/12/2022;;111
+2022 B4;C0000406877;Clos;21/07/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Nuvia;;non;;;31/08/2022;;30
+2022 B4;C0000407059;Clos;22/07/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;Nuvia;;non;;;31/08/2022;;29
+2022 B4;C0000408454;Clos;22/07/2022;Rétention;Rétention pleine/encombrée;BASES VIE;EDF;;non;;;03/11/2022;;75
+2022 B4;C0000407814;Clos;26/07/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;IS;;non;;;20/10/2022;;63
+2022 B4;C0000407854;Clos;26/07/2022;Prévention_des_incidents;Kit environnement absent;HB;Dalkia EN;;Non;;;07/09/2022;;32
+2022 B4;C0000408512;En cours;28/07/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Endel;entreprise;non;;;;;
+2022 B4;C0000409363;Clos;02/08/2022;Déversement;Autre type de déversement;EXT BLOC USINE;inconnue;;Non;;;02/08/2022;;1
+2022 B4;C0000409833;Clos;03/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Dalkia EN;;non;;;05/10/2022;;46
+2022 B4;C0000410325;En cours;04/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;GMES Engie Axima Tunzini;entreprise;non;;;;;
+2022 B4;C0000410104;Clos;04/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;ADF;;non;;;30/09/2022;;42
+2022 B4;C0000410331;Clos;05/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Spie Cegelec;entreprise;non;;;11/01/2023;;114
+2022 B4;C0000410333;Clos;05/08/2022;Compatibilité;Incompatibilité des produits stockés;BASES VIE;Ineo Snef Siemens;;non;;;17/10/2022;;52
+2022 B4;C0000410585;Clos;08/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;ISS;;non;;;03/11/2022;;64
+2022 B4;C0000410686;En cours;08/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Snef;entreprise;non;;;;;
+2022 B4;C0000410933;Clos;09/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Onet;;non;;;16/09/2022;;29
+2022 B4;C0000410953;Clos;09/08/2022;Administratif;Pièce 13 absente ou incomplète;BASES VIE;Onet;;non;;;09/09/2022;;24
+2022 B4;C0000411213;Clos;10/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Westinghouse;;non;;;03/11/2022;;62
+2022 B4;C0000411227;Clos;10/08/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Westinghouse;;non;;;03/11/2022;;62
+2022 B4;C0000411435;En cours;11/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Snef;entreprise;non;;;;;
+2022 B4;C0000411479;Clos;11/08/2022;Contenant;Inadapté, abîmé;BASES VIE;Eiffage GCN;entreprise;non;;;09/12/2022;;87
+2022 B4;C0000412205;Clos;16/08/2022;Déversement;Déversement lié à l'entreposage des produits;EXT BLOC USINE;EDF;;Non;;;18/08/2022;;3
+2022 B4;C0000412393;Clos;17/08/2022;Déversement;Déversement lié à l'entreposage des produits;EXT BLOC USINE;EDF;;EIE03;;;12/09/2022;;19
+2022 B4;C0000412390;Clos;17/08/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;HL;inconnue;;Non;;;19/08/2022;;3
+2022 B4;C0000414030;Clos;22/08/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;Baumert;;non;;;10/11/2022;;59
+2022 B4;C0000413605;En cours;22/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Baumert;entreprise;non;;;;;
+2022 B4;C0000413629;En cours;22/08/2022;Incendie;Produits inflammables hors ACF;BASES VIE;Baumert;entreprise;non;;;;;
+2022 B4;C0000413837;Clos;23/08/2022;Déversement;Autre type de déversement;EXT BLOC USINE;inconnue;;Non;;;12/09/2022;;15
+2022 B4;C0000413962;Clos;23/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;BST;entreprise;non;;;05/01/2023;;98
+2022 B4;C0000414262;En cours;24/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Kaefer Wanner;entreprise;non;;;;;
+2022 B4;C0000414344;Clos;25/08/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Mastellotto;;non;;;03/11/2022;;51
+2022 B4;C0000415274;Clos;25/08/2022;Rétention;Rétention absente;HNP;inconnue;;Non;;;30/08/2022;;4
+2022 B4;C0000415498;Clos;30/08/2022;Gestion_des_déchets;Filière inappropriée;HC;inconnue;;Non;;;30/08/2022;;1
+2022 B4;C0000416032;En cours;31/08/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Sade;entreprise;non;;;;;
+2022 B4;C0000416041;Clos;31/08/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;Sade;entreprise;non;;;19/01/2023;;102
+2022 B5;C0000416305;En cours;01/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Lassarat;entreprise;non;;;;;
+2022 B5;C0000416398;Clos;01/09/2022;Gestion_des_déchets;Filière inappropriée;BASES VIE;Snef;;non;;;20/10/2022;;36
+2022 B5;C0000416576;Clos;02/09/2022;Etiquetage_des_produits;Etiquetage absent;EXT PARKING;ADF;;non;;;20/09/2022;;13
+2022 B5;C0000417346;Clos;05/09/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;EXT ENTREE SITE;BST;;non;;;02/11/2022;;43
+2022 B5;C0000417120;Clos;05/09/2022;Déversement;Déversement lié aux engins;EXT BLOC USINE;inconnue;;non;;;12/09/2022;;6
+2022 B5;C0000417227;Clos;06/09/2022;Problématique_organisationnelle;Non respect d'exigence réglementaire;EXT BLOC USINE;Framatome;;non;;;#N/A;;#N/A
+2022 B5;C0000418156;Clos;08/09/2022;Déversement;Déversement lié à une activité;EXT BLOC USINE;Onet;;non;;;27/09/2022;;14
+2022 B5;C0000418471;Clos;09/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Baumert;;non;;;02/11/2022;;39
+2022 B5;C0000418480;Clos;09/09/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;GMES Fives Nordon / Ponticelli;entreprise;non;;;20/12/2022;;73
+2022 B5;C0000418521;En cours;09/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Keolis;entreprise;non;;;;;
+2022 B5;C0000418840;Clos;12/09/2022;Administratif;Fiche d’entreposage Epsilon absente;EXT PLATEAU;Elior;;non;;;23/11/2022;;53
+2022 B5;C0000418897;Clos;12/09/2022;Administratif;Fiche d’entreposage Epsilon absente;EXT PLATEAU;Dalkia EN;;non;tranche 1 et 2;;23/11/2022;;53
+2022 B5;C0000418906;Clos;12/09/2022;Administratif;Fiche d’entreposage Epsilon absente;EXT PLATEAU;Altrad echaff;;non;;;23/11/2022;;53
+2022 B5;C0000419715;Clos;14/09/2022;Incendie;ACF absente;BASES VIE;Eiffage GCN;;non;;;03/11/2022;;37
+2022 B5;C0000419999;En cours;15/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Socotec;entreprise;non;;;;;
+2022 B5;C0000420009;En cours;15/09/2022;Rétention;Rétention pleine/encombrée;BASES VIE;Socotec;entreprise;non;;;;;
+2022 B5;C0000420043;En cours;15/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Omexom;entreprise;non;;;;;
+2022 B5;C0000422901;Clos;15/09/2022;Incendie;Produits inflammables hors ACF;BASES VIE;Endel;entreprise;non;;;05/12/2022;;58
+2022 B5;C0000421293;Clos;20/09/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;IS;entreprise;non;;;20/12/2022;;66
+2022 B5;C0000421297;En cours;20/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;IS;entreprise;non;;;;;
+2022 B5;C0000422002;En cours;22/09/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Framatome;entreprise;non;;;;;
+2022 B5;C0000422009;Clos;22/09/2022;Contenant;Inadapté, abîmé;BASES VIE;Framatome;entreprise;non;;;20/12/2022;;64
+2022 B5;C0000422964;En cours;26/09/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Altrad Prezioso-Linjebygg;entreprise;non;;;;;
+2022 B5;C0000422965;En cours;26/09/2022;Incendie;ACF absente;BASES VIE;Altrad Prezioso-Linjebygg;entreprise;non;;;;;
+2022 B5;C0000422967;En cours;26/09/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Altrad Prezioso-Linjebygg;entreprise;non;;;;;
+2022 B5;C0000422968;Clos;26/09/2022;Gestion_des_déchets;Déchet non évacué;BASES VIE;Dalkia EN;;non;;;23/11/2022;;43
+2022 B5;C0000423246;En cours;27/09/2022;Contenant;Inadapté, abîmé;EXT ENTREE SITE;Framatome;entreprise;Non;;;;;
+2022 B5;C0000423273;Clos;27/09/2022;Gestion_des_déchets;Déchet abandonné;EXT BLOC USINE;Aris;;Non;;;30/09/2022;;4
+2022 B5;C0000423304;Clos;27/09/2022;Problématique_organisationnelle;autre;EXT BLOC USINE;Framatome;;non;non respect d'une exigence réglementaire;;#N/A;;#N/A
+2022 B5;C0000423613;Clos;28/09/2022;Contenant;inadapté, abîmé;BASES VIE;Baumert;;non;;;10/11/2022;;32
+2022 B5;C0000424016;Clos;29/09/2022;Incendie;produits inflammables hors ACF;BASES VIE;Snef;;non;;;20/10/2022;;16
+2022 B5;C0000424350;Clos;30/09/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;Snef;;non;;;20/10/2022;;15
+2022 B5;C0000424374;En cours;30/09/2022;Gestion_des_déchets;Déchet abandonné;EXT PLATEAU;inconnue;lot 7;non;;;;;
+2022 B5;C0000424645;En cours;03/10/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Masci;entreprise;non;;;;;
+2022 B5;C0000424668;Clos;03/10/2022;Incendie;Produits inflammables hors ACF;BASES VIE;Sade;;non;;;28/10/2022;;20
+2022 B5;C0000425004;En cours;04/10/2022;Prévention_des_incidents;Parades absentes ou inadaptées;BASES VIE;2HEnergy;entreprise;non;;;;;
+2022 B5;C0000426385;Clos;10/10/2022;Etiquetage_des_produits;Etiquetage incomplet;BASES VIE;Onet;entreprise;non;;;20/12/2022;;52
+2022 B5;C0000426596;En cours;11/10/2022;Gestion_des_déchets;Filière inappropriée;EXT ENTREE SITE;inconnue;lot 7;Non;;;;;
+2022 B5;C0000426706;Clos;11/10/2022;Gestion_des_déchets;Déchet non trié;EXT BLOC USINE;inconnue;;non;;;#N/A;;#N/A
+2022 B5;C0000426719;Clos;11/10/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;GE;entreprise;non;;;#N/A;;#N/A
+2022 B5;C0000426766;Clos;11/10/2022;Gestion_des_déchets;Déchet abandonné;EXT BLOC USINE;inconnue;;non;;;#N/A;;#N/A
+2022 B5;C0000426811;Clos;11/10/2022;Déversement;Déversement lié à une activité;EXT BLOC USINE;EDF;;Non;;;16/10/2022;;4
+2022 B5;C0000426991;Clos;12/10/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;BASES VIE;Tharsile/cantonnier;entreprise;non;;;12/12/2022;;44
+2022 B5;C0000427225;Clos;13/10/2022;Prévention_des_incidents;FRE au mauvais indice;BASES VIE;Altrad Prezioso-Linjebygg;;non;;;#N/A;;#N/A
+2022 B5;C0000427959;Clos;13/10/2022;Gestion_des_déchets;Filière inappropriée;EXT BLOC USINE;inconnue;;Non;;;17/10/2022;;3
+2022 B5;C0000427918;Clos;14/10/2022;Incendie;ACF absente;BASES VIE;Omexom;entreprise;non;;;15/12/2022;;45
+2022 B5;C0000427926;Clos;14/10/2022;Etiquetage_des_produits;Etiquetage absent;BASES VIE;Omexom;;non;;;14/11/2022;;22
+2022 B5;C0000431236;En cours;27/10/2022;Administratif;Pièce 24 absente ou incomplète;BASES VIE;Lassarat;entreprise;non;;;;;
+2022 B5;C0000431536;Clos;28/10/2022;Déversement;Déversement lié aux engins;EXT BLOC USINE;Kaefer Wanner;;non;;;10/11/2022;;10
+2022 B5;C0000431537;Clos;28/10/2022;Déversement;Déversement lié aux engins;BASES VIE;Kaefer Wanner;;non;;;10/11/2022;;10
+2022 B6;C0000431975;Clos;01/11/2022;Rétention;Rétention absente;BASES VIE;inconnue;;Non;;02/11/2022;04/11/2022;2;4
+2022 B6;C0000432163;Clos;02/11/2022;Prévention_des_incidents;Stockage non conforme en plusieurs points;BASES VIE;BST;entreprise;non;;03/11/2022;05/01/2023;2;47
+2022 B6;C0000432406;En cours;03/11/2022;Administratif;Exigence réglementaire;HW;EDF;lot 4;Non;;02/12/2022;;22;
+2022 B6;C0000433417;Clos;08/11/2022;Gestion_des_déchets;Déchet abandonné;EXT BLOC USINE;inconnue;;non;;10/11/2022;10/11/2022;3;3
+2022 B6;C0000433451;Clos;08/11/2022;Gestion_des_déchets;Déchet abandonné;EXT BLOC USINE;inconnue;;non;;10/11/2022;10/11/2022;3;3
+2022 B6;C0000434302;En cours;10/11/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Probent Access;entreprise;non;;10/11/2022;;1;
+2022 B6;C0000434367;Clos;10/11/2022;Administratif;Fiche d’entreposage Epsilon absente;BASES VIE;Tharsile/cantonnier;entreprise;non;;08/12/2022;12/12/2022;21;23
+2022 B6;C0000435282;En cours;15/11/2022;Problématique_organisationnelle;Non respect de contrôle réglementaire;Sans objet;EDF;lot 3;EIE07;constat lié C0000428203 (non respect d'échéance réglementaire d'étanchéité du circuit frigorifique);18/11/2022;;4;
+2022 B6;C0000435566;Clos;16/11/2022;Gestion_des_situations_d_urgence;Non-respect de la FRE;HR;inconnue;lot 7;Non;;17/11/2022;22/12/2022;2;27
+2022 B6;C0000436191;Clos;18/11/2022;Gestion_des_déchets;Déchet non évacué;BASES VIE;GMES Fives Nordon / Ponticelli;entreprise;non;;18/11/2022;20/12/2022;1;23
+2022 B6;C0000436199;Clos;18/11/2022;Gestion_des_déchets;Déchet abandonné;EXT BLOC USINE;inconnue;lot 7;non;;08/12/2022;13/01/2023;15;41
+2022 B6;C0000436203;Clos;18/11/2022;Gestion_des_déchets;Déchet non évacué;BASES VIE;Endel;entreprise;non;;18/11/2022;08/12/2022;1;15
+2022 B6;C0000437090;En cours;22/11/2022;Contenant;Ouvert, GRV sans bouchon;EXT PLATEAU;TENEO;entreprise;Non;;22/11/2022;;1;
+2022 B6;C0000437098;Clos;22/11/2022;Gestion_des_déchets;Déchet abandonné;EXT PLATEAU;Baumert;entreprise;Non;;08/12/2022;13/01/2023;13;39
+2022 B6;C0000437513;En cours;23/11/2022;Rétention;Rétention sous-dimensionnée;BASES VIE;Kaefer Wanner;entreprise;Non;;23/11/2022;;1;
+2022 B6;C0000437821;En cours;24/11/2022;Administratif;Pièce 24 absente ou incomplète;EXT PLATEAU;Sade;entreprise;Non;;24/11/2022;;1;
+2022 B6;C0000437826;En cours;24/11/2022;Etiquetage_des_produits;Etiquetage absent;EXT BLOC USINE;Sade;entreprise;Non;;24/11/2022;;1;
+2022 B6;C0000439086;Clos;29/11/2022;Déversement;Déversement lié à l'entreposage des produits;EXT PARKING;inconnue;lot 7;Non;;05/12/2022;08/12/2022;5;8
+2022 B6;C0000440389;Clos;05/12/2022;Activité;Parades absentes ou inadaptées;HD;EDF;;Non;;14/12/2022;16/12/2022;8;10
+2022 B6;C0000440393;Clos;05/12/2022;Activité;Parades absentes ou inadaptées;HD;EDF;;Non;;12/12/2022;15/12/2022;6;9
+2022 B6;C0000440450;En cours;05/12/2022;Administratif;Pièce 24 absente ou incomplète;EXT BLOC USINE;ADF;entreprise;Non;;05/12/2022;;1;
+2022 B6;C0000442300;En cours;12/12/2022;Rétention;Rétention pleine/encombrée;HB;IS;entreprise;Non;;12/12/2022;;1;
+2022 B6;C0000442344;En cours;12/12/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;EXT ENTREE SITE;IS;entreprise;Non;;12/12/2022;;1;
+2022 B6;C0000442357;En cours;12/12/2022;Prévention_des_incidents;Kit environnement absent;EXT ENTREE SITE;IS;entreprise;Non;;04/01/2023;;18;
+2022 B6;C0000443538;En cours;15/12/2022;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;EXT PLATEAU;Omexom;entreprise;Non;;15/12/2022;;1;
+2022 B6;C0000443541;En cours;15/12/2022;Prévention_des_incidents;Kit environnement absent;EXT PLATEAU;Omexom;entreprise;Non;;15/12/2022;;1;
+2022 B6;C0000443980;Clos;16/12/2022;Compatibilité;Incompatibilité des produits stockés;EXT PLATEAU;Westinghouse;;Non;;16/12/2022;17/12/2022;1;1
+2022 B6;C0000443986;Clos;16/12/2022;Rétention;Rétention pleine/encombrée;BASES VIE;Westinghouse;;Non;;17/12/2022;17/12/2022;1;1
+2022 B6;C0000443990;Clos;16/12/2022;Prévention_des_incidents;Kit environnement absent;EXT PLATEAU;Westinghouse;;Non;;16/12/2022;17/12/2022;1;1
+2022 B6;C0000444353;En cours;19/12/2022;Administratif;Fiche d’entreposage Epsilon absente;EXT BLOC USINE;Nuvia;entreprise;Non;;19/12/2022;;1;
+2022 B6;C0000444777;En cours;20/12/2022;Confinement_liquide_installation;/;EXT BLOC USINE;EDF;lot 2;EIE03;;22/12/2022;;3;
+2023 B1;C0000446934;En cours;03/01/2023;Problématique_organisationnelle;Non respect de contrôle réglementaire;Sans objet;Probent Access;;non;;03/01/2023;;1;
+2023 B1;C0000447155;Clos;04/01/2023;Déversement;Déversement lié à l'entreposage des produits;EXT BLOC USINE;EDF;;non;;06/01/2023;12/01/2023;3;7
+2023 B1;C0000448196;En cours;04/01/2023;Gestion_des_situations_d_urgence;Non-respect de la FRE;BASES VIE;BC9/Spir;;non;;10/01/2023;;5;
+2023 B1;C0000447274;En cours;04/01/2023;Rétention;Rétention pleine/encombrée;BASES VIE;BC9/Spir;;non;;04/01/2023;;1;
+2023 B1;C0000447549;En cours;06/01/2023;Déversement;Déversement lié aux engins;EXT BLOC USINE;GDES;;EIE03;;12/01/2023;;5;
+2023 B1;C0000449412;En cours;10/01/2023;Etiquetage_des_produits;Etiquetage absent;EXT BLOC USINE;inconnue;;non;;;;;
+2023 B1;C0000449420;En cours;13/01/2023;Gestion_des_déchets;Filière inappropriée;BASES VIE;Endel;;non;;;;;
+2023 B1;C0000449432;En cours;13/01/2023;Rétention;Rétention pleine/encombrée;EXT BLOC USINE;inconnue;;non;;;;;
+2023 B1;C0000450449;Clos;18/01/2023;Administratif;Fiche d’entreposage Epsilon absente;EXT PLATEAU;FOSELEV;;non;;23/01/2023;23/01/2023;4;4
+2023 B1;C0000450450;En cours;18/01/2023;Problématique_organisationnelle;Non respect de contrôle réglementaire;Sans objet;BST;;non;;18/01/2023;;1;
+2023 B1;C0000450459;En cours;18/01/2023;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;EXT PLATEAU;FOSELEV;;non;;23/01/2023;;4;
+2023 B1;C0000450466;Clos;18/01/2023;Administratif;Inventaire absent;EXT PLATEAU;FOSELEV;entreprise;non;;23/01/2023;23/01/2023;4;4
+2023 B1;C0000450477;En cours;18/01/2023;Prévention_des_incidents;Kit environnement absent;EXT PLATEAU;FOSELEV;;non;;23/01/2023;;4;
+2023 B1;C0000450481;Clos;18/01/2023;Incendie;ACF absente;EXT PLATEAU;FOSELEV;;non;;23/01/2023;23/01/2023;4;4
+2023 B1;C0000450484;Clos;18/01/2023;Incendie;Produits inflammables hors ACF;EXT PLATEAU;FOSELEV;;non;;23/01/2023;23/01/2023;4;4
+2023 B1;C0000450487;Clos;18/01/2023;Administratif;Pièce 24 absente ou incomplète;EXT PLATEAU;FOSELEV;;non;;23/01/2023;23/01/2023;4;4
+2023 B1;C0000450491;En cours;18/01/2023;Administratif;Inventaire absent;EXT PLATEAU;TENEO;;non;;23/01/2023;;4;
+2023 B1;C0000450475;En cours;19/01/2023;Confinement_liquide_installation;/;EXT BLOC USINE;EDF;;EIE05;;20/01/2023;;2;
+2023 B1;C0000451472;En cours;23/01/2023;Rétention;Rétention pleine/encombrée;EXT PLATEAU;GE;;non;;;;;
+2023 B1;C0000451481;En cours;23/01/2023;Administratif;Fiche d’entreposage Epsilon absente;EXT PLATEAU;GE;;non;;;;;
+2023 B1;C0000451488;En cours;23/01/2023;Administratif;FDS/FLU/Notice de poste non disponible ou eronée;EXT PLATEAU;GE;;non;;;;;
