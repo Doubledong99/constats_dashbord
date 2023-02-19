@@ -2,7 +2,6 @@
 # coding: utf-8
 
 import pandas as pd
-'import plotly.express as px
 import streamlit as st 
 
 # PANDAS DATABASE CREATION
