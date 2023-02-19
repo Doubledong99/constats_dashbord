@@ -17,9 +17,23 @@ df=pd.read_csv('data.csv', sep=';' ,encoding='latin-1')
 st.dataframe(df)
 
 
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-plt.figure(figsize=(20,10))
-ax=sns.countplot(y='Thème',data=df)
-ax.set_title('Nombre des constats par Thème')
+import plotly.express as px
+
+constats_par_thème=(
+  df.groupby(by=["Thème"]).count()
+)
+
+fig_product_sales = px.bar(
+    constats_par_thème,
+    x="Total",
+    y=constats_par_thème.index,
+    orientation="h",
+    title="<b>Sales by Product Line</b>",
+    color_discrete_sequence=["#205295"] * len(constats_par_thème),
+    template="plotly_white",
+)
+
+fig_product_sales.update_layout(
+    plot_bgcolor="rgba(0,0,0,0)",
+    xaxis=(dict(showgrid=False))
+)
