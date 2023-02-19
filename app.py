@@ -12,3 +12,6 @@ st.set_page_config(
 # MAINPAGE
 st.title(":bar_chart: Constats Dashboard")
 st.markdown("##")
+
+df=pd.read_csv("data.csv")
+st.dataframe(df)
