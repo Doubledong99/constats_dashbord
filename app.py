@@ -9,4 +9,6 @@ st.set_page_config(
   layout="wide"                 
 )
 
-
+# MAINPAGE
+st.title(":bar_chart: Sales Dashboard")
+st.markdown("##")
