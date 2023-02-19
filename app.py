@@ -10,5 +10,5 @@ st.set_page_config(
 )
 
 # MAINPAGE
-st.title(":bar_chart: Sales Dashboard")
+st.title(":bar_chart: Constats Dashboard")
 st.markdown("##")
